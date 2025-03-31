@@ -1,0 +1,4 @@
+Hello guys,
+How are you,
+I hope you are good, if you want help in development of any type of project feel free to contact me.
+My expertise include python development for backend and flutter for frontend.
